@@ -1,8 +1,8 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway:300,400');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
 
 * {
     box-sizing: border-box;
-    font-family: Raleway;
+    font-family: "Nanum Gothic";
     color: rgb(73, 73, 73);
 }
 
@@ -43,8 +43,7 @@ html, body {
 }
 
 .main-header {
-    background-color: red;
-    background-image: url('https://www.databankimx.com/wp-content/uploads/2015/07/Microsoft-Cloud-Offerings.jpg');
+    background-image: url('https://t4.ftcdn.net/jpg/02/76/08/07/360_F_276080724_hltnCyDjcqAyRtLzDYo3T2jXbBtCD7fl.jpg');
     background-blend-mode: multiply;
     background-size: cover;
     padding-bottom: 30px;
@@ -113,7 +112,7 @@ html, body {
 }
 
 .main-footer {
-    background-color: red;
+    background-color: midnightblue;
     color: white;
     position: fixed;
     bottom: 0;
