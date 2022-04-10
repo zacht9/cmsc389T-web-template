@@ -1,3 +1,10 @@
-# cmsc388T-web-template
+# cmsc389T-web-template
 
-Website Template for Project 3
+CMSC389T Project 5
+Zach Teselko
+
+Github Pages link:
+- Changes made: Updated font to Nanum Gothic instead of Raleway, changed the main header's background image, changed footer color
+
+
+TerpConnect link:
