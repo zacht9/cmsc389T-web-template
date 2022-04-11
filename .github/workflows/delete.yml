@@ -9,10 +9,10 @@ jobs:
       - name: Delete repo from host
         uses: appleboy/ssh-action@master
         with:
-	  host: ${{ secrets.HOST }}
-	  username: ${{ secrets.USERNAME }}
-	  password: ${{ secrets.PASSWORD }}
-	  port: ${{ secrets.PORT }}
-	  script: |
-	      unalias rm
-	      rm -rf cmsc389T-web-template
+          host: ${{ secrets.HOST }}
+          username: ${{ secrets.USERNAME }}
+          password: ${{ secrets.PASSWORD }}
+          port: ${{ secrets.PORT }}
+          script: |
+             unalias rm
+             rm -rf cmsc389T-web-template
